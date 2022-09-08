@@ -19,5 +19,13 @@
             <url>https://jitpack.io</url>
         </repository>
     </repositories>
+    
+    <dependencies>
+         <dependency>
+	         <groupId>com.github.ZodiacCorps</groupId>
+	         <artifactId>DB_API</artifactId>
+                  <version>1.1.5</version>
+         </dependency
+    </dependencies>
 
 </project>
