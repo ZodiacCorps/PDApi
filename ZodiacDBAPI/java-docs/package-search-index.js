@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"zcorps"},{"l":"zcorps.files"},{"l":"zcorps.updates"},{"l":"zcorps.utils"}];updateSearchResults();
