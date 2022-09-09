@@ -1,8 +1,11 @@
 package zcorps.utils;
 
+import zcorps.DB_API;
+
 import javax.swing.*;
 
 public class ButtonFunctions {
+
     public void openDbSearch(JButton closeMenu, JPanel p1, JPanel p2, JPanel p4, JPanel p5, JLabel dbBg,
                               JScrollPane sp){
         closeMenu.setText("<html><p>O<br>p<br>e<br>n</p></html>");
