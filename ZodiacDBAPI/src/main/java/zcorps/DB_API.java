@@ -16,6 +16,17 @@ public class DB_API {
 
     }
 
+    /**
+     * Setting up Locations, Component Visibility Etc...
+     * @param text Database Search Bar
+     * @param info Database Display / Edit Area
+     * @param sp Scrollpane that the Info Panel will be inserted on
+     * @param sBtn Search Button
+     * @param dbBg Database Background
+     * @param log Logger to log Exceptions etc...
+     * @param setupProcess String[] used to track where the setup process is at (log)
+     * @param htable Table to hold certain Information
+     */
     public void setupDatabase(JTextField text, JTextArea info, JScrollPane sp, JButton sBtn, JLabel dbBg,
                               Logger log, String[] setupProcess, JTable htable){
         dbBg.setBounds(0,0, 630, 605);
